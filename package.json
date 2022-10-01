@@ -1,0 +1,20 @@
+{
+  "name": "04-tareas-hacer",
+  "version": "0.0.1",
+  "description": "App de listar tareas con datos persistentes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "ElvisGT",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.0.0",
+    "uuid": "^9.0.0"
+  }
+}
